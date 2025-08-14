@@ -11,7 +11,7 @@ st.title("📘 ค้นหาตารางสอบกลางภาค")
 st.write("กรอกชื่อกลุ่มนักศึกษา หรือชื่อผู้คุมสอบ หรือชื่อผู้ช่วยคุมสอบ เพื่อดูตารางสอบที่เกี่ยวข้อง")
 
 # Input field for search
-query = st.text_input("🔍 คำค้นหา (เช่น 67141EVE1 หรือ รศ.ดร.พุทธพล)")
+query = st.text_input("🔍 คำค้นหา (เช่น 67141EVE1 หรือ นชิรัตน์)")
 
 # Perform search if query is provided
 if query:
