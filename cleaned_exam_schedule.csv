@@ -1,4 +1,4 @@
-subject_code_name,student_group,exam_date,exam_time,exam_room,exam_supervisor,exam_assistant,exam_room,exam_supervisor,exam_assistant
+subject_code_name,student_group,exam_date,exam_time,exam_room,exam_supervisor,exam_assistant,exam_room,exam_supervisor_1,exam_assistant_1
 04000101-63 : Engineering Workshop,67343MEE,-,-, ,,,,,
 04000101-63 : Engineering Workshop,67343RME,-,-,,,,,,
 04000101-63 : Engineering Workshop,67443MEE,-,-,,,,,,
@@ -791,3 +791,4 @@ subject_code_name,student_group,exam_date,exam_time,exam_room,exam_supervisor,ex
 04716301-63  :  Biobased Materials Engineering,วศ.ปกติ,จัดสอบเอง,,,,,,,
 04716302-63  :  Engineering Materials from Biomass,วศ.ปกติ,จัดสอบเอง,,,,,,,
 , ,,,,,,,,
+
